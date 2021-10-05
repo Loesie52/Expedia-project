@@ -5,7 +5,7 @@ greatly help companies such as Expedia (from which the dataset actually originat
 
 ## 1. Data Collection
 
-The dataset can be downloaded from the Data Mining Techniques class on the Kaggle website (https://www.kaggle.com/c/2nd-assignment-dmt-2021/). It is split into a training and a test set (train.csv and test.csv respectively, each containing approximately 5 million records). Essentially, the dataset contains information about a search query of a user for a hotel, the hotel properties that resulted and for the training set, whether the user clicked on the hotel and booked it. The datasets can also be found in this repository.
+The dataset can be downloaded from the Data Mining Techniques class on the Kaggle website (https://www.kaggle.com/c/2nd-assignment-dmt-2021/). It is split into a training and a test set (train.csv and test.csv respectively, each containing approximately 5 million records). Essentially, the dataset contains information about a search query of a user for a hotel, the hotel properties that resulted and for the training set, whether the user clicked on the hotel and booked it.
 
 ### 1.2 Data features
 
